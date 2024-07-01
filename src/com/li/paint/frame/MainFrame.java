@@ -19,7 +19,7 @@ public class MainFrame extends JFrame {
     }
 
     private void init() {
-        this.setTitle("PAINTING");
+        this.setTitle("PAINT");
         this.setLayout(new FlowLayout());
         this.setLocation(200, 100);
 
