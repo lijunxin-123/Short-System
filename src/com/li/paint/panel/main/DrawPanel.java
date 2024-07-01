@@ -354,7 +354,7 @@ public class DrawPanel extends BasicPanel {
                 break;
         }
     }
-
+    //设置鼠标点击事件
     @Override
     public void mouseClicked(MouseEvent e) {
         super.mouseClicked(e);
