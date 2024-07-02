@@ -19,7 +19,7 @@ public class ToolPanel extends BasicPanel {
     public ToolPanel(int width, int height) {
         super(width, height);
     }
-
+    //初始化
     @Override
     protected void init() {
         super.init();
