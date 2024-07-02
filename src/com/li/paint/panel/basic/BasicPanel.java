@@ -43,7 +43,7 @@ public class BasicPanel extends JPanel implements MouseListener, MouseMotionList
     protected void finish() {
 
     }
-
+    //重写paint函数
     @Override
     public void paint(Graphics g) {
         super.paint(g);
